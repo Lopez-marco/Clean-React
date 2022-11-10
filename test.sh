@@ -9,4 +9,4 @@ read branch
 
 git push origin $branch
 
-read "Done you can close your terminal"
+read "Done"
