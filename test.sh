@@ -12,7 +12,6 @@ then
         read branch
 
         git push origin $branch
-        read
         echo "Done"
         sleep 3
     elif [[ $commitMessage == "pull" ]]
